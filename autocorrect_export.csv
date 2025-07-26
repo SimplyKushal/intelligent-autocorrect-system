@@ -1,0 +1,5 @@
+timestamp,original,corrected,type,confidence,application,context
+2025-07-21 17:07:07,occured,occurred,spelling,0.9,,
+2025-07-21 17:06:53,adn,and,spelling,0.9,,
+2025-07-21 17:04:57,teh,the,spelling,0.9,,
+2025-07-21 17:04:26,teh,the,spelling,0.9,,

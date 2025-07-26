@@ -1,0 +1,16 @@
+{
+  "auto_start": true,
+  "minimize_to_tray": true,
+  "default_tone": "casual",
+  "default_formality": "medium",
+  "enable_spelling": true,
+  "enable_grammar": true,
+  "enable_style": false,
+  "use_ml_corrections": true,
+  "ml_confidence_threshold": 0.3642201834862385,
+  "learn_from_corrections": true,
+  "adapt_to_style": true,
+  "processing_delay": 67,
+  "log_level": "DEBUG",
+  "ml_model": "facebook/bart-base"
+}
